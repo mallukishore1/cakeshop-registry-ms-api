@@ -8,6 +8,8 @@ public class CakeshopRegistryMsApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CakeshopRegistryMsApiApplication.class, args);
+		System.out.println("Started...");
 	}
+	
 
 }
